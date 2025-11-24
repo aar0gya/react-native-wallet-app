@@ -18,7 +18,7 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5001;
 
-app.get("/", (req, res) => {
+app.get("/", (_req, res) => {
   res.send(`
     <h2>💰 Wallet API</h2>
     <p>Status: Running Successfully 🚀</p>
