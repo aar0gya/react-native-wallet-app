@@ -76,13 +76,11 @@ Perfect for:
 
 ---
 
+
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="![Screenshot_2025-11-24-17-34-06-40_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/cb2b8b6f-2776-47fc-885c-07e414f9653c)
-" width="220" />
-  <img src="screenshots/login.jpg" width="220" />
-  <img src="screenshots/create.jpg" width="220" />
+  ![Screenshot_2025-11-24-17-34-06-40_f73b71075b1de7323614b647fe394240](https://github.com/user-attachments/assets/bd44a4ec-c9b6-48cd-a210-76cbfba1c212)
 </p>
 
 ---
