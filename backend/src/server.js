@@ -18,8 +18,12 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5001;
 
-app.get("/api/health", (req, res) => {
-    res.status(200).json({ status: "ok" });
+app.get("/", (req, res) => {
+  res.send(`
+    <h2>💰 Wallet API</h2>
+    <p>Status: Running Successfully 🚀</p>
+    <p>This server powers the mobile application.</p>
+  `);
 });
 
 app.use("/api/transactions", transactionsRoute);
